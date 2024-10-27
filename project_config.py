@@ -1,16 +1,16 @@
 EXTDEF_ENABLE_EMAIL = True
-EXTDEF_EMAIL_TOADDR = "heritagetrooper@gmail.com"
+EXTDEF_EMAIL_TOADDR = "*********@gmail.com"
 EXTDEF_EMAIL_FROMADDR = "rpip47646@gmail.com"
 EXTDEF_EMAIL_BODY = "PFA"
 EXTDEF_EMAIL_SUBJECT = "EVENT NOTIFICATION"
-EXTDEF_EMAIL_GMAIL_KEY = "drwyiordpqooykra"
+EXTDEF_EMAIL_GMAIL_KEY = "**************"
 
 EXTDEF_ENABLE_SMS = False
-EXTDEF_SMS_APIKEY = "QzLbDOZeVsX18drKlPoux7ac9AqvhM40iBpt6yFwHT2RgSUjmJ0kJUhnA8eI3rRN5DZlKazcofCFYLQ6" 
+EXTDEF_SMS_APIKEY = "******************************************************************************" 
 EXTDEF_SMS_BODY = "event detected"
-EXTDEF_SMS_TONUMBER = "8076161952"
+EXTDEF_SMS_TONUMBER = "************"
 
-EXTDEF_TOSEND_PATH = "C:/Users/nikun/Codesss/Tinker/Capture_Image"
+EXTDEF_TOSEND_PATH = "C:/Users/..."
 EXTDEF_EVENT_LOG = "eventlog.txt"
 
 EXTDEF_UPDATE_IMAGE_FLAG = False
