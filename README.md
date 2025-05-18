@@ -14,7 +14,7 @@ A real-time computer vision system designed to detect and monitor graffiti or un
 
 ## Prerequisites
 
-- Python 3.x
+- Python 
 - OpenCV (cv2)
 - NumPy
 - SMTP library for email functionality
